@@ -1,0 +1,5 @@
+G:\Shadow Tech Software\exe files\WinFormsApp1.exe
+G:\Shadow Tech Software\exe files\WinFormsApp1.dll
+G:\Shadow Tech Software\exe files\WinFormsApp1.deps.json
+G:\Shadow Tech Software\exe files\WinFormsApp1.runtimeconfig.json
+G:\Shadow Tech Software\exe files\WinFormsApp1.pdb

@@ -1,0 +1,16 @@
+G:\Shadow Tech Software\WinFormsApp1\bin\Release\netcoreapp3.1\WinFormsApp1.exe
+G:\Shadow Tech Software\WinFormsApp1\bin\Release\netcoreapp3.1\WinFormsApp1.deps.json
+G:\Shadow Tech Software\WinFormsApp1\bin\Release\netcoreapp3.1\WinFormsApp1.runtimeconfig.json
+G:\Shadow Tech Software\WinFormsApp1\bin\Release\netcoreapp3.1\WinFormsApp1.runtimeconfig.dev.json
+G:\Shadow Tech Software\WinFormsApp1\bin\Release\netcoreapp3.1\WinFormsApp1.dll
+G:\Shadow Tech Software\WinFormsApp1\bin\Release\netcoreapp3.1\WinFormsApp1.pdb
+G:\Shadow Tech Software\WinFormsApp1\obj\Release\netcoreapp3.1\WinFormsApp1.csproj.AssemblyReference.cache
+G:\Shadow Tech Software\WinFormsApp1\obj\Release\netcoreapp3.1\WinFormsApp1.Form1.resources
+G:\Shadow Tech Software\WinFormsApp1\obj\Release\netcoreapp3.1\WinFormsApp1.Properties.Resources.resources
+G:\Shadow Tech Software\WinFormsApp1\obj\Release\netcoreapp3.1\WinFormsApp1.csproj.GenerateResource.cache
+G:\Shadow Tech Software\WinFormsApp1\obj\Release\netcoreapp3.1\WinFormsApp1.AssemblyInfoInputs.cache
+G:\Shadow Tech Software\WinFormsApp1\obj\Release\netcoreapp3.1\WinFormsApp1.AssemblyInfo.cs
+G:\Shadow Tech Software\WinFormsApp1\obj\Release\netcoreapp3.1\WinFormsApp1.csproj.CoreCompileInputs.cache
+G:\Shadow Tech Software\WinFormsApp1\obj\Release\netcoreapp3.1\WinFormsApp1.dll
+G:\Shadow Tech Software\WinFormsApp1\obj\Release\netcoreapp3.1\WinFormsApp1.pdb
+G:\Shadow Tech Software\WinFormsApp1\obj\Release\netcoreapp3.1\WinFormsApp1.genruntimeconfig.cache
